@@ -5,10 +5,17 @@ This repository contains solutions to the projects proposed by [dataquest.io](da
 Below are a list of projects and the skills related:
 
 **1 - Exploring births in the US:** Reading csvs, lists and functions
+
 **2 - Creating the SimpleFrame Class:** 
+
 **3 - Exploring Ebay Car Sales Data:**
+
 **4 - Visualizing Earning Based on College Majors:**
+
 **5 - Visualizing The Gender Gap in College Degrees:**
+
 **6 - Analysing NYC High School Data:**
+
 **7 - Star Wars Survey:**
+
 **8 - Analysing CIA Factbook Data Using SQLITE and Python:**
