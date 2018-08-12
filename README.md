@@ -1,12 +1,12 @@
 # Data-Analysis
 
-This repository contains solutions to the projects proposed by [dataquest.io](dataquest.io), using Python and Jupyter notebooks. The projects increase in complexity over time and each one shows different skills needed for analysing data
+This repository contains solutions to the projects found in [dataquest.io](dataquest.io) Data Analyst path, using Python and Jupyter notebooks. The projects increase in complexity over time and each one shows different skills needed for analysing data.
 
 Below are a list of projects and the skills related:
 
-**1 - Exploring births in the US:** Reading csvs, lists and functions
+**1 - Exploring births in the US:** Reading csvs, lists and functions.
 
-**2 - Creating the SimpleFrame Class:** 
+**2 - Exploring Gun Deaths in the US:** List comprehension, datetime objects, dictionaries.
 
 **3 - Exploring Ebay Car Sales Data:**
 
