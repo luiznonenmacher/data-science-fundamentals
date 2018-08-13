@@ -8,9 +8,9 @@ Below are a list of projects and the skills related:
 
 **2 - Exploring Gun Deaths in the US:** List comprehension, datetime objects, dictionaries.
 
-**3 - Exploring Ebay Car Sales Data:**
+**3 - Exploring Ebay Car Sales Data:** Cleaning data, using Pandas with Jupyter Notebook.
 
-**4 - Visualizing Earning Based on College Majors:**
+**4 - Visualizing Earning Based on College Majors:** Plotting with Pandas and matplotlib.
 
 **5 - Visualizing The Gender Gap in College Degrees:**
 
