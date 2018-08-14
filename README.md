@@ -18,4 +18,7 @@ Below are a list of projects and the skills related:
 
 **7 - Star Wars Survey:** Cleaning and processing survey data, encoding.
 
-**8 - Analysing CIA Factbook Data Using SQLITE and Python:**
+**8 - Analysing CIA Factbook Data Using SQLITE and Python:** Connecting to a SQLite database, making queries with Pandas. 
+
+**9 - Answering Business Questions Using SQL:** SQL Joins, SQL complex queries. 
+
