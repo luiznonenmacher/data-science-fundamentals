@@ -22,3 +22,11 @@ Below are a list of projects and the skills related:
 
 **9 - Answering Business Questions Using SQL:** SQL Joins, SQL complex queries. 
 
+**10 - Designing and Creating a Database:** Designing, creating and populating a normalized SQL database. 
+
+**11 - Investigating Fandango Movie Ratings:**
+
+**12 - Finding the Best Markets to Advertise In:**
+
+**13 - Winning Jeopardy:**
+
