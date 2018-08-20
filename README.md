@@ -24,9 +24,9 @@ Below are a list of projects and the skills related:
 
 **10 - Designing and Creating a Database:** Designing, creating and populating a normalized SQL database. 
 
-**11 - Investigating Fandango Movie Ratings:**
+**11 - Investigating Fandango Movie Ratings:** Designing, collecting and comparing two samples to answer a question
 
-**12 - Finding the Best Markets to Advertise In:**
+**12 - Finding the Best Markets to Advertise In:** Finding and removing outliers, taking decisions based on statistics
 
 **13 - Winning Jeopardy:**
 
