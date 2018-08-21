@@ -6,27 +6,27 @@ Below are a list of projects and the skills related:
 
 **1 - [Exploring births in the US:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/01%20-%20Exploring%20births%20in%20the%20US.ipynb)** Reading csvs, lists and functions.
 
-**2 - Exploring Gun Deaths in the US:** List comprehension, datetime objects, dictionaries.
+**2 - [Exploring Gun Deaths in the US:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/02%20-%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)** List comprehension, datetime objects, dictionaries.
 
-**3 - Exploring Ebay Car Sales Data:** Cleaning data, using Pandas with Jupyter Notebook.
+**3 - [Exploring Ebay Car Sales Data:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/03%20-%20Exploring%20Ebay%20Car%20Sales%20Data.ipynb)** Cleaning data, using Pandas with Jupyter Notebook.
 
-**4 - Visualizing Earning Based on College Majors:** Plotting with Pandas and matplotlib.
+**4 - [Visualizing Earning Based on College Majors:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/04%20-%20Visualizing%20Earning%20Based%20on%20College%20Majors.ipynb)** Plotting with Pandas and matplotlib.
 
-**5 - Visualizing The Gender Gap in College Degrees:** Plotting custom graphs with matplotlib, pyplot and Pandas and exporting it to a PNG file.
+**5 - [Visualizing The Gender Gap in College Degrees:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/05%20-%20Visualizing%20The%20Gender%20Gap%20in%20College%20Degrees.ipynb)** Plotting custom graphs with matplotlib, pyplot and Pandas and exporting it to a PNG file.
 
-**6 - Analysing NYC High School Data:** Condensing multiple datasets in an unique dataframe, plotting maps and analysing correlations. 
+**6 - [Analysing NYC High School Data:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/06%20-%20Analysing%20NYC%20High%20School%20Data.ipynb)** Condensing multiple datasets in an unique dataframe, plotting maps and analysing correlations. 
 
-**7 - Star Wars Survey:** Cleaning and processing survey data, encoding.
+**7 - [Star Wars Survey:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/07%20-%20Star%20Wars%20Survey.ipynb)** Cleaning and processing survey data, encoding.
 
-**8 - Analysing CIA Factbook Data Using SQLITE and Python:** Connecting to a SQLite database, making queries with Pandas. 
+**8 - [Analysing CIA Factbook Data Using SQLITE and Python:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/08%20-%20Analysing%20CIA%20Factbook%20Data%20Using%20SQLITE%20and%20Python.ipynb)** Connecting to a SQLite database, making queries with Pandas. 
 
-**9 - Answering Business Questions Using SQL:** SQL Joins, SQL complex queries. 
+**9 - [Answering Business Questions Using SQL:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/09%20-%20Answering%20Business%20Questions%20Using%20SQL.ipynb)** SQL Joins, SQL complex queries. 
 
-**10 - Designing and Creating a Database:** Designing, creating and populating a normalized SQL database. 
+**10 - [Designing and Creating a Database:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/10%20-%20Designing%20and%20Creating%20a%20Database.ipynb)** Designing, creating and populating a normalized SQL database. 
 
-**11 - Investigating Fandango Movie Ratings:** Designing, collecting and comparing two samples to answer a question
+**11 - [Investigating Fandango Movie Ratings:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/11%20-%20Investigating%20Fandango%20Movie%20Ratings.ipynb)** Designing, collecting and comparing two samples to answer a question
 
-**12 - Finding the Best Markets to Advertise In:** Finding and removing outliers, taking decisions based on statistics
+**12 - [Finding the Best Markets to Advertise In:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/12%20-%20Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)** Finding and removing outliers, taking decisions based on statistics
 
-**13 - Winning Jeopardy:** Processing sentences (separate strings and remove punctuation), compare words usage and use chi-squared tests. 
+**13 - [Winning Jeopardy:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/13%20-%20Winning%20Jeopardy.ipynb)** Processing sentences (separate strings and remove punctuation), compare words usage and use chi-squared tests. 
 
