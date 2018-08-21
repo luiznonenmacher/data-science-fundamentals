@@ -4,7 +4,7 @@ This repository contains solutions to the projects found in [dataquest.io](dataq
 
 Below are a list of projects and the skills related:
 
-**1 - Exploring births in the US:** Reading csvs, lists and functions.
+**1 - [Exploring births in the US:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/01%20-%20Exploring%20births%20in%20the%20US.ipynb)** Reading csvs, lists and functions.
 
 **2 - Exploring Gun Deaths in the US:** List comprehension, datetime objects, dictionaries.
 
