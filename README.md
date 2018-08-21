@@ -1,4 +1,4 @@
-# Dataquest - Data-Analysis
+# Dataquest - Data Analysis
 
 This repository contains solutions to the projects found in [dataquest.io](dataquest.io) Data Analyst path, using Python and Jupyter notebooks. The projects increase in complexity over time and each one shows different skills needed for analysing data.
 
