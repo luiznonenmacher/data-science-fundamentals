@@ -28,5 +28,5 @@ Below are a list of projects and the skills related:
 
 **12 - Finding the Best Markets to Advertise In:** Finding and removing outliers, taking decisions based on statistics
 
-**13 - Winning Jeopardy:**
+**13 - Winning Jeopardy:** Processing sentences (separate strings and remove punctuation), compare words usage and use chi-squared tests. 
 
