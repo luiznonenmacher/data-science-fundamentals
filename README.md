@@ -1,8 +1,13 @@
 # Dataquest - Data Analysis
 
-This repository contains solutions to the projects found in [dataquest.io](dataquest.io) Data Analyst path, using Python and Jupyter notebooks. The projects increase in complexity over time and each one shows different skills needed for analysing data.
+This repository contains solutions to the projects found in [dataquest.io](dataquest.io), using Python and Jupyter Notebooks.
 
-Below are a list of projects and the skills related:
+The first 13 projects are from the Data Analyst Path and focus on techniques to manipulate and analyse data. The next ones are from the Data Scientist Path and their objective is to make inferences and predictions from data. 
+
+The projects increase in complexity over time and each one shows different skills needed for analysing data. Below are a list of projects and the skills related:
+
+
+** Data Analysis**
 
 **1 - [Exploring births in the US:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/01%20-%20Exploring%20births%20in%20the%20US.ipynb)** Reading csvs, lists and functions.
 
@@ -30,3 +35,7 @@ Below are a list of projects and the skills related:
 
 **13 - [Winning Jeopardy:](https://github.com/luiznonenmacher/Dataquest-Data-Analysis/blob/master/13%20-%20Winning%20Jeopardy.ipynb)** Processing sentences (separate strings and remove punctuation), compare words usage and use chi-squared tests. 
 
+
+** Data Science **
+
+**14 - [Predicting Car Prices:](https://github.com/luiznonenmacher/Dataquest/blob/master/14%20-%20Predicting%20Car%20Prices.ipynb)** Applying k-NN to predict car prices.
