@@ -41,3 +41,5 @@ The projects increase in complexity over time and each one shows different skill
 
 **15 - [Predicting House Sale Prices:](https://github.com/luiznonenmacher/Dataquest/blob/master/15%20-%20Predicting%20House%20Sale%20Prices.ipynb)** Applying linear regression with feature selection to predict house sale prices.
 
+**16 - [Predicting the Stock Market:](https://github.com/luiznonenmacher/Dataquest/blob/master/16%20-%20Predicting%20the%20Stock%20Market.ipynb)** Using linear regression and historical data to predict the price in the stock market. 
+
