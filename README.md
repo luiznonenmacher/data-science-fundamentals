@@ -43,3 +43,7 @@ The projects increase in complexity over time and each one shows different skill
 
 **16 - [Predicting the Stock Market:](https://github.com/luiznonenmacher/Dataquest/blob/master/16%20-%20Predicting%20the%20Stock%20Market.ipynb)** Using linear regression and historical data to predict the price in the stock market. 
 
+**17 - [Predicting Bike Rentals:]**
+
+**18 - [Creating a Kaggle Workflow:]**
+
