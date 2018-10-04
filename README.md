@@ -45,5 +45,5 @@ The projects increase in complexity over time and each one shows different skill
 
 **17 - [Predicting Bike Rentals:](https://github.com/luiznonenmacher/Dataquest/blob/master/17%20-%20Predicting%20Bike%20Rentals.ipynb)** Applying Linear Regression, Decision Trees and Random Forests to predict bike rentals in Washington D.C.
 
-**18 - [Creating a Kaggle Workflow:]**(https://github.com/luiznonenmacher/Dataquest/blob/master/18%20-%20Creating%20a%20Kaggle%20Workflow.ipynb) Creating a workflow to process data, compare predictions models (Logistic Regression, k-NN and Random Forests) and generate a csv for Kaggle submission. 
+**18 - [Creating a Kaggle Workflow:](https://github.com/luiznonenmacher/Dataquest/blob/master/18%20-%20Creating%20a%20Kaggle%20Workflow.ipynb)** Creating a workflow to process data, compare predictions models (Logistic Regression, k-NN and Random Forests) and generate a csv for Kaggle submission. 
 
