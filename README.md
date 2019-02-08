@@ -1,10 +1,12 @@
 # Dataquest - Data Analysis
 
-This repository contains solutions to the projects found in [dataquest.io](dataquest.io), using Python and Jupyter Notebooks.
+This repository contains projects that explores the fundamentals of Data Science using Python and Jupyter Notebooks. 
+
+Those projects are based on the Data Analyst and Data Scientist paths of [dataquest.io](dataquest.io). 
 
 The first 13 projects are from the Data Analyst Path and focus on techniques to manipulate and analyse data. The next ones are from the Data Scientist Path and their objective is to make inferences and predictions from data. 
 
-The projects increase in complexity over time and each one shows different skills needed for analysing data. Below are a list of projects and the skills related:
+The projects increases in complexity over time and each one shows different skills needed for data science. Below are a list of projects and the skills related:
 
 
 ## Data Analysis
